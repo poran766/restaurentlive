@@ -22,7 +22,7 @@
 <!-- Footer section starts -->
 <div class="footer-section-wrap">
 	<div class="container">
-		<div class="row">
+		<div class="row footer-allignment">
 			<div class="col-md-4">
 				<h3>Hours:</h3>
 				<p>Sun-Thurs: 11:15am - 10:00pm</p>
@@ -43,7 +43,7 @@
 			</div>
 		</div>
 		<div class="col-md-12 copyright-china">
-			@ Copyright David Chu's China Bistro 2016 | Admin
+			<p>@ Copyright David Chu's China Bistro 2016 | Admin</p>
 		</div>
 	</div>
 </div>
