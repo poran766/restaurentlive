@@ -24,22 +24,24 @@
 	<div class="container">
 		<div class="row footer-allignment">
 			<div class="col-md-4">
-				<h3>Hours:</h3>
+				<h5 class="footer-header-name">Hours:</h5>
 				<p>Sun-Thurs: 11:15am - 10:00pm</p>
 				<p>Fri: 11:15am - 2:30pm</p>
 				<p>Saturday Closed</p>
+				<hr>
 			</div>
-
+			
 			<div class="col-md-4">
-				<h3>Address:</h3>
+				<h5 class="footer-header-name">Address:</h5>
 				<p>7105 Reisterstown Road</p>
 				<p>Baltimore, MD 21215</p>
 				<p class="delivary-area">* Delivery area within 3-4 miles, with minimum order of $20 plus $3 charge for all deliveries.</p>
+				<hr>
 			</div>
 
 			<div class="col-md-4">
-				<p class="qoute-class">"The best Chinese restaurant I've been to! And that's saying a lot, since I've been to many!"</p>
-				<p class="qoute-class">"Amazing food! Great service! Couldn't ask for more! I'll be back again and again!"</p>
+				<p class="qoute-class-1">"The best Chinese restaurant I've been to! And that's saying a lot, since I've been to many!"</p>
+				<p class="qoute-class-2">"Amazing food! Great service! Couldn't ask for more! I'll be back again and again!"</p>
 			</div>
 		</div>
 		<div class="col-md-12 copyright-china">
