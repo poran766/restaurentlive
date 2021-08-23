@@ -60,6 +60,11 @@
 				</button>
 				<div class="collapse navbar-collapse chaina-bistro-header" id="navbarSupportedContent">
 					<ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+					<li class="nav-item d-lg-none">
+							<a class="nav-link menu" href="#"> <span><i class="fas fa-home"></i>
+									<p>Home</p>
+								</span></a>
+						</li>
 						<li class="nav-item">
 							<a class="nav-link menu" href="#"> <span><i class="fas fa-utensils"></i>
 									<p>Menu</p>
@@ -76,7 +81,7 @@
 								</span></a>
 						</li>
 						<li class="nav-item right-side-header">
-							<a class="nav-link" href="#">
+							<a class="nav-link" href="tel:410-602-5008">
 								<h3 class="header-phone-number"> 410-602-5008 </h3>
 								<p class="we-deliver">* We Deliver</p>
 							</a>

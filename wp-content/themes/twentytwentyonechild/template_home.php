@@ -17,9 +17,10 @@ get_header();
 <div class="main-body">
 	<div class="container">
 		<div class="gylophone d-lg-none">
-			<a href="#" class="btn-body">
+			<a href="tel:123456789" class="btn-body">
 				<span><i class="fas fa-phone-alt"></i> 1234567890</span>
 			</a>
+			<p>* We Deliver</p>
 		</div>
 	</div>
 	<div class="container-fluid">
@@ -27,23 +28,31 @@ get_header();
 			<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/jumbotron_1200.jpg" alt="">
 		</div>
 		<div class="row row-section">
-			<div class="col-md-4 body-menu">
-				<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/B.jpg" alt="">
-				<div class="menu-section">
-					<p>MENU</p>
-				</div>
+			<div class="col-md-4">
+				<a href="#">
+					<div class="category-tile">
+						<img width="100%" height="250" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/F.jpg" alt="">
+						<span>lunch</span>
+					</div>
+				</a>
 			</div>
-			<div class="col-md-4 specials">
-				<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/SO.jpg" alt="">
-				<div class="menu-section">
-					<p>SPECIALS</p>
-				</div>
+			
+			<div class="col-md-4">
+				<a href="#">
+					<div class="category-tile">
+						<img width="100%" height="250" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/F.jpg" alt="">
+						<span>SPECIALS</span>
+					</div>
+				</a>
 			</div>
-			<div class="col-md-4 map">
-				<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/F.jpg" alt="">
-				<div class="menu-section">
-					<p>MAP</p>
-				</div>
+			
+			<div class="col-md-4">
+				<a href="#">
+					<div class="category-tile">
+						<img width="100%" height="250" src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/F.jpg" alt="">
+						<span>MAP</span>
+					</div>
+				</a>
 			</div>
 		</div>
 	</div>
